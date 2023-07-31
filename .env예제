@@ -1,0 +1,9 @@
+PREFIX=/
+TOKEN=디스코드 봇 토큰
+MONGODB_URL=mongodb+srv://몽고DB주소
+INVITE_URL=https://discord.com/api/oauth2/authorize?client_id=봇ID&permissions=8&scope=bot
+BG_IMG=https://cdn.wallpaperinhd.net/wp-content/uploads/2018/11/02/Music-Background-Wallpaper-025.jpg
+DISCORD_SERVER_URL=
+WEBSITE_URL=
+VOTE_URL=
+API_URL=
